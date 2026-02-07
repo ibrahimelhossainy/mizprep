@@ -1345,7 +1345,7 @@
     },
     {
       "id": "social_u2",
-      "unitName": "الوحدة الثانية: تاريخ - شخصيات وأحداث",
+      "unitName": "الوحدة الثانية: تاريخ",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
@@ -2838,7 +2838,7 @@
     },
     {
       "id": "social_u3",
-      "unitName": "الوحدة الثالثة: جغرافيا - طقس ومناخ",
+      "unitName": "الوحدة الثالثة: جغرافيا",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
@@ -4667,7 +4667,7 @@
     },
     {
       "id": "social_u4",
-      "unitName": "الوحدة الرابعة: تاريخ - حضارة بلادي",
+      "unitName": "الوحدة الرابعة: تاريخ",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
