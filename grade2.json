@@ -1,28 +1,33 @@
 {
   "units": [
     {
-      "id": "ar_u1",
-      "unitName": "الوحدة الأولى",
+      "id": "social_u1",
+      "unitName": "الوحدة الأولى: جغرافيا ",
       "icon": "ime.png",
       "isFree": true,
       "resources": [
         {
           "type": "pdf",
-          "title": "كتاب النحو - PDF",
+          "title": "كتاب الجغرافيا - PDF",
           "url": "https://files.catbox.moe/vpz40i.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو: الجملة الاسمية والفعلية",
+          "title": "درس فيديو: الاتجاهات الأصلية",
           "url": "https://d.top4top.io/m_3663azu9c1.mp4"
         },
         {
+          "type": "audio",
+          "title": "بودكاست: قراءة الخريطة",
+          "url": "https://b.top4top.io/m_3663m2xhh1.mp3"
+        },
+        {
           "type": "quiz",
-          "title": "اختبار النحو"
+          "title": "اختبار الوحدة الأولى"
         }
       ],
       "questions": [
-         {
+          {
     "questionText": "أي من القارات التالية تعد الأولى عالمياً من حيث عدد السكان؟",
     "options": ["أفريقيا", "آسيا", "أوروبا", "أمريكا الشمالية"],
     "correctAnswer": "آسيا",
@@ -1603,28 +1608,33 @@
       ]
     },
     {
-      "id": "ar_u2",
-      "unitName": "الوحدة الثانية",
+      "id": "social_u2",
+      "unitName": "الوحدة الثانية: تاريخ",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
-               {
+        {
           "type": "pdf",
-          "title": "كتاب النحو - PDF",
+          "title": "كتاب التاريخ - PDF",
           "url": "https://files.catbox.moe/vpz40i.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو: الجملة الاسمية والفعلية",
+          "title": "درس فيديو: المصري القديم",
           "url": "https://d.top4top.io/m_3663azu9c1.mp4"
         },
         {
+          "type": "audio",
+          "title": "بودكاست: قصص الأجداد",
+          "url": "https://b.top4top.io/m_3663m2xhh1.mp3"
+        },
+        {
           "type": "quiz",
-          "title": "اختبار النصوص"
+          "title": "اختبار الوحدة الثانية"
         }
       ],
       "questions": [
-          {
+         {
     "questionText": "قائد الفتح الإسلامي لمصر هو ...",
     "options": ["خالد بن الوليد", "عمرو بن العاص", "شرحبييل بن حسنة", "سعد بن أبي وقاص"],
     "correctAnswer": "عمرو بن العاص",
@@ -3117,33 +3127,33 @@
     "options": ["القاهرة", "دمشق", "حلب", "مكة"],
     "correctAnswer": "القاهرة",
     "points": 10
-  }
+  } 
       ]
     },
     {
-      "id": "ar_u3",
-      "unitName": "الوحدة الثالثة: الإملاء والتعبير",
+      "id": "social_u3",
+      "unitName": "الوحدة الثالثة: جغرافيا",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
-               {
+        {
           "type": "pdf",
-          "title": "قواعد الإملاء PDF",
+          "title": "ملخص الطقس والمناخ - PDF",
           "url": "https://files.catbox.moe/vpz40i.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو الجملة الاسمية والفعلية",
+          "title": "درس فيديو: فصول السنة",
           "url": "https://d.top4top.io/m_3663azu9c1.mp4"
         },
         {
           "type": "audio",
-          "title": "بودكاست علامات الإعراب",
+          "title": "بودكاست: أدوات القياس",
           "url": "https://b.top4top.io/m_3663m2xhh1.mp3"
         },
         {
           "type": "quiz",
-          "title": "اختبار الإملاء"
+          "title": "اختبار الوحدة الثالثة"
         }
       ],
       "questions": [
@@ -4622,36 +4632,37 @@
     "options": ["زراعة واسعة تجارية وعلمية", "زراعة بدائية", "زراعة كثيفة يدوية", "زراعة معيشية"],
     "correctAnswer": "زراعة واسعة تجارية وعلمية",
     "points": 10
-  },
-           ]
+  }
+      ]
     },
-              "id": "ar_u4",
-      "unitName": "الوحدة الرابعة",
+    {
+      "id": "social_u4",
+      "unitName": "الوحدة الرابعة: تاريخ",
       "icon": "ime.png",
       "isFree": false,
       "resources": [
-               {
+        {
           "type": "pdf",
-          "title": "قواعد الإملاء PDF",
+          "title": "كتاب الحضارة - PDF",
           "url": "https://files.catbox.moe/vpz40i.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو الجملة الاسمية والفعلية",
+          "title": "درس فيديو: العصر الفرعوني",
           "url": "https://d.top4top.io/m_3663azu9c1.mp4"
         },
         {
           "type": "audio",
-          "title": "بودكاست علامات الإعراب",
+          "title": "بودكاست: رحلة عبر الزمن",
           "url": "https://b.top4top.io/m_3663m2xhh1.mp3"
         },
         {
           "type": "quiz",
-          "title": "اختبار الإملاء"
+          "title": "اختبار الوحدة الرابعة"
         }
       ],
       "questions": [
-         {
+          {
     "questionText": "تحولت مصر إلى ولاية عثمانية عام 1517م بعد معركة ...",
     "options": ["مرج دابق", "الريدانية", "جالديران", "ديو البحرية"],
     "correctAnswer": "الريدانية",
