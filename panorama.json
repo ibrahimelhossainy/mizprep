@@ -14,7 +14,7 @@
       "url": "https://example.com/museum.jpg",
       "thumb": "https://ik.imagekit.io/tzw0eirjz/%D8%AD%D8%B5%D9%86%20%D8%A8%D8%A7%D8%A8%D9%84%D9%8A%D9%88%D9%86.webp",
       "title": "حصن بابليون",
-      "is_free": false,
+      "is_free": true,
       "grade": "g1"
     },
     {
