@@ -12,8 +12,8 @@
     {
       "id": "img_2",
       "url": "https://example.com/museum.jpg",
-      "thumb": "https://example.com/museum_thumb.jpg",
-      "title": "المتحف المصري الكبير",
+      "thumb": "https://ik.imagekit.io/tzw0eirjz/%D8%AD%D8%B5%D9%86%20%D8%A8%D8%A7%D8%A8%D9%84%D9%8A%D9%88%D9%86.webp",
+      "title": "حصن بابليون",
       "is_free": false,
       "grade": "g1"
     },
