@@ -7,7 +7,7 @@
       "thumb": "",
       "title": "الجامع الأزهر",
       "is_free": true,
-      "grade": ["g1", "g2"]
+      "grade": "g2"
     },
     {
       "id": "img_2",
@@ -66,8 +66,9 @@
       "grade": "g2"
     },
     {
-      "id": "img_3",
+      "id": "img_9",
       "url": "https://cdn.jsdelivr.net/gh/ibrahimelhossainy/prime@main/babl.webp",
+      "thumb": "",
       "title": "حصن بابليون",
       "is_free": false,
       "grade": "g2"
