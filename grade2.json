@@ -25,6 +25,10 @@
           "type": "pdf",
           "title": "المراجعة النهائية للوحدة الأولى - PDF",
           "url": "https://example.com/files/prep2_ss_u1_review.pdf"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الوحدة الأولى"
         }
       ],
       "questions": [
@@ -1854,6 +1858,10 @@
           "type": "pdf",
           "title": "المراجعة النهائية للوحدة الثانية - PDF",
           "url": "https://example.com/files/prep2_ss_u2_review.pdf"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الوحدة الثانية"
         }
       ],
       "questions": [
@@ -4684,6 +4692,10 @@
           "type": "pdf",
           "title": "المراجعة النهائية للوحدة الثالثة - PDF",
           "url": "https://example.com/files/prep2_ss_u3_review.pdf"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الوحدة الثالثة"
         }
       ],
       "questions": [
@@ -6942,6 +6954,10 @@
           "type": "pdf",
           "title": "المراجعة النهائية للوحدة الرابعة - PDF",
           "url": "https://example.com/files/prep2_ss_u4_review.pdf"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الوحدة الرابعة"
         }
       ],
       "questions": [
