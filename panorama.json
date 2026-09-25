@@ -3,11 +3,25 @@
   "images": [
     {
       "id": "img_1",
-      "url": "https://cdn.jsdelivr.net/gh/ibrahimelhossainy/vr2term@main/azher.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ibrahimelhossainy/vr2term@main/closuim.webp",
       "thumb": "",
-      "title": "الجامع الأزهر",
+      "title": "مسرح الكولوسيوم",
       "is_free": true,
       "grade": "g2"
+      "hotspots": [
+        {
+          "pitch": 12.5,
+          "yaw": -47.3,
+          "type": "info",
+          "text": "مسرح الكولوسيوم بمدينة روما بايطاليا"
+        },
+        {
+          "pitch": -5.2,
+          "yaw": 88.0,
+          "type": "info",
+          "text": "لاحظ سُمك الأسوار هنا — بُنيت بالحجر الجيري عشان تتحمل الحصار في العصور الوسطى."
+        }
+      ]
     },
     {
       "id": "img_2",
