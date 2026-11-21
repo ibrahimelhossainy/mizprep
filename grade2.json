@@ -17,16 +17,6 @@
           "url": "https://www.youtube.com/watch?v=tZ1pNBuF3yk"
         },
         {
-          "type": "audio",
-          "title": "بودكاست: الموقع والأهمية",
-          "url": "https://example.com/audio/prep2_u1.mp3"
-        },
-        {
-          "type": "pdf",
-          "title": "المراجعة النهائية للوحدة الأولى - PDF",
-          "url": "https://example.com/files/prep2_ss_u1_review.pdf"
-        },
-        {
           "type": "quiz",
           "title": "اختبار الوحدة الأولى"
         }
